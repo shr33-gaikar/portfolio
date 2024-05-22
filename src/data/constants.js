@@ -267,7 +267,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "src/images/sc_logo.jpg",
+      img: "src/images/images.png",
       school: "Sathaye College",
       date: "Jun 2020 - Jun 2021",
       grade: "84%",
