@@ -276,7 +276,7 @@ export const Bio = {
     },
     {
       id: 2,
-      img: "src/images/ca_logo.jpg",
+      img: "http://drive.google.com/uc?export=view&id=1QlLr_ww52KCrP6I5VIx2ylk12mdhcf-x",
       school: "Children's Academy",
       date: "Jun 2018 - Mar 2019",
       grade: "89%",
