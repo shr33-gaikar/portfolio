@@ -10,7 +10,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      "I am an enthusiastic and adaptable individual, consistently seeking out fresh opportunities. Driven by a love for acquiring new knowledge, I am committed to delivering excellence in all endeavors. Armed with optimism and a commitment to growth, I am eager to make a significant impact and attain remarkable accomplishments.",
     github: "https://github.com/shr33-gaikar",
     resume:
       "https://drive.google.com/file/d/1nSDiyGo7KgJwdFFblRvNMfm6WGpw9VCW/view?usp=sharing",
