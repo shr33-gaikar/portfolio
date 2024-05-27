@@ -172,7 +172,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "src/images/tcet_logo.jpg",
+    img: "https://www.tcetmumbai.in/image/tcetshieldlogo.jpg",
     school: "Thakur College of Engineering and Techonology",
     date: "Dec 2021 - May 2025",
     grade: "9.4 CGPA",
@@ -181,7 +181,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "src/images/images.png",
+    img: "https://www.allschoolscolleges.com/images/college_logo/811472213526.jpg",
     school: "Sathaye College",
     date: "Jun 2020 - Jun 2021",
     grade: "84%",
@@ -190,7 +190,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "http://drive.google.com/uc?export=view&id=1QlLr_ww52KCrP6I5VIx2ylk12mdhcf-x",
+    img: "https://childrens-academy.b-cdn.net/wp-content/uploads/2022/02/cags-logo-1-300x149-1.png",
     school: "Children's Academy",
     date: "Jun 2018 - Mar 2019",
     grade: "89%",
@@ -207,7 +207,7 @@ export const projects = [
     description:
       "Designed and implemented a web-based Multiple Disease Prediction System, utilizing machine learning algorithms to predict conditions such as heart disease, diabetes, breast cancer, kidney disease, liver disease, and Parkinson's disease.",
     image:
-      "src/images/mdps_img.jpg",
+      "https://intersectiq.com/assets/images/blogs/6/cover.jpg",
     tags: [
       "Python", 
       "Prediction System", 
@@ -223,7 +223,7 @@ export const projects = [
     description:
       "Developed a GUI-based Face Recognition Attendance System, utilizing OpenCV to register users through image frame analysis and logging attendance from a database.",
     image:
-      "src/images/fras_img.jpg",
+      "https://www.facechk.com/wp-content/uploads/2020/10/face-recognition-attendance-system.jpg",
     tags: [
       "OpenCV",
       "Face Recognition",
@@ -240,14 +240,8 @@ export const projects = [
     description:
       "Designed a real-time Text Extraction & Object Recognition App, allowing instant extraction of text and recognition of objects from live video streams.",
     image:
-      "src/images/te_igmg.jpg",
-    tags: [
-      "Python", 
-      "Keras", 
-      "TensorFlow", 
-      "VGG16", 
-      "Pickle", 
-      "React"],
+      "https://techviral.net/wp-content/uploads/2016/08/Image.jpg",
+    tags: [""],
     category: "android app",
     github: "https://github.com/shr33-gaikar/TextTrac",
     webapp: "",
