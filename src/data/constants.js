@@ -15,7 +15,7 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/1nSDiyGo7KgJwdFFblRvNMfm6WGpw9VCW/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/shrikar-gaikar/",
-    twitter: "",
+    twitter: "https://x.com/shrikar_gaikar?t=EaMXZK2Z-iWTGPmg7BJeZg&s=08",
     insta: "https://www.instagram.com/_shr33.gaikar_/",
     facebook: "https://www.facebook.com/shreekar.gaikar?mibextid=ZbWKwL",
   };
