@@ -124,7 +124,15 @@ export const skills = [
       image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kubernetes_logo.svg",
     },
     {
-      name: "AWS/Azure/GCP",
+      name: "AWS",
+      image: "https://www.softwareone.com/-/media/global/social-media-images/aws-azure-gcp.jpg?rev=fac0da4f237a4e87a9e8f0e9a9311728&sc_lang=en",
+    },
+    {
+      name: "Azure/",
+      image: "https://www.softwareone.com/-/media/global/social-media-images/aws-azure-gcp.jpg?rev=fac0da4f237a4e87a9e8f0e9a9311728&sc_lang=en",
+    },
+    {
+      name: "GCP",
       image: "https://www.softwareone.com/-/media/global/social-media-images/aws-azure-gcp.jpg?rev=fac0da4f237a4e87a9e8f0e9a9311728&sc_lang=en",
     },
     {
