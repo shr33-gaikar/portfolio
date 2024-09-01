@@ -13,7 +13,7 @@ export const Bio = {
     "I am an enthusiastic and adaptable individual, consistently seeking out fresh opportunities. Driven by a love for acquiring new knowledge, I am committed to delivering excellence in all endeavors. Armed with optimism and a commitment to growth, I am eager to make a significant impact and attain remarkable accomplishments.",
   github: "https://github.com/shr33-gaikar",
   resume:
-    "https://drive.google.com/file/d/1nSDiyGo7KgJwdFFblRvNMfm6WGpw9VCW/view?usp=sharing",
+    "https://drive.google.com/file/d/1YcdrqXbdnJ8hd9Yr-xv8qpS-o98PP-Z2/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shrikar-gaikar/",
   twitter: "https://x.com/shrikar_gaikar?t=EaMXZK2Z-iWTGPmg7BJeZg&s=08",
   insta: "https://www.instagram.com/_shr33.gaikar_/",
